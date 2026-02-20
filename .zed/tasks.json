@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Build and run with meson",
+    "command": "meson setup build --reconfigure && meson compile -C build && ./build/tetris",
+    "reveal": "always",
+    "hide": "never",
+    "shell": "system",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+  },
+]
