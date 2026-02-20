@@ -1,4 +1,4 @@
-project('templatge', 'cpp')
+project('template', 'cpp')
 
 raylib_dep = dependency('raylib')
 

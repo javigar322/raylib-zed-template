@@ -1,7 +1,7 @@
 [
   {
     "label": "Build and run with meson",
-    "command": "meson setup build --reconfigure && meson compile -C build && ./build/tetris",
+    "command": "meson setup build --reconfigure && meson compile -C build && ./build/template",
     "reveal": "always",
     "hide": "never",
     "shell": "system",
